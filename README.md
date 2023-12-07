@@ -7,3 +7,5 @@ $ git config --global user.name
 git config --global user.email "kimmiej.warden@gmail.com"
 $ config --global user.email
 >kimmiej.warden@gmail.com
+>
+>git commit -am "Your comment"
